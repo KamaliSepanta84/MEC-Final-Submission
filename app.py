@@ -22,10 +22,12 @@ def on_log_in():
 
         else:
             messagebox.showwarning("Warning!","Incorrect Password!")
-            username_entry.delete(0,"end")
             password_entry.delete(0,"end")
     except userObj.userException as e:
             messagebox.showerror("Error" , e.message)
+            username_entry.delete(0,"end")
+            password_entry.delete(0,"end")
+
 
     
     
@@ -38,6 +40,9 @@ def on_sign_up():
         messagebox.showinfo("Succes!" , "The User has been sucussfully signed up!")
     except userObj.userException as e:
         messagebox.showerror("Error" , e.message)
+        username_entry.delete(0 , "end")
+        password_entry.delete(0,"end")
+
     finally:
         display_log_in()
 
