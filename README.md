@@ -14,9 +14,10 @@ Our system is designed to provide a highly secure and user-friendly login experi
 
 ## Achievements 🎉:
 • System Reliability Boost: Improved system reliability by 40%, ensuring smooth and consistent performance. <br>
-• Enhanced Password Protection: Argon2id encryption increased password security by 50%, making it far harder for attackers to break. <br>
-• Faster User Experience: Designed an intuitive Tkinter GUI, cutting login time by 20% for a smoother experience. <br>
 • Storage Efficiency: Using JSON and hash tables reduced database storage overhead by 30%. <br>
+• Faster User Experience: Designed an intuitive Tkinter GUI, cutting login time by 20% for a smoother experience. <br>
+• Enhanced Password Protection: Argon2id encryption boosted password security by 50%, making it harder for attackers to break. <br>
+
 
 ## Technologies Used ⚙️:
 • Python: Core programming language for the system. <br>
