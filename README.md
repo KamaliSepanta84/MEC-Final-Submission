@@ -18,3 +18,11 @@ Our system is designed to provide a highly secure and user-friendly login experi
 • Faster User Experience: Designed an intuitive Tkinter GUI, cutting login time by 20% for a smoother experience. <br>
 • Storage Efficiency: Using JSON and hash tables reduced database storage overhead by 30%. <br>
 
+## Technologies Used ⚙️:
+• Python: Core programming language for the system.
+• Tkinter: For building the user interface.
+• Argon2id: Encryption algorithm for securely hashing passwords.
+• JSON & Hash Tables: For building the non-relational database.
+
+## Our Vision 🌟:
+Our goal is to enhance the security and convenience of the system by adding multi-factor authentication, along with biometric options like fingerprint scanning and face detection. These features will not only strengthen the protection of user accounts but also make the login process smoother and more personalized, offering a more secure experience for users.
