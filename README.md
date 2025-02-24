@@ -8,7 +8,7 @@ This project was created as part of the McMaster Engineering Competition 2024, w
 Our system is designed to provide a highly secure and user-friendly login experience. We wanted to make sure that users' personal information and passwords are protected with the best possible security measures. 
 
 ## Key Features 💡:
-• Secure Password Hashing: Used Argon2id with salt, making it computationally infeasible to reverse the hash due to its memory-intensive design. <br> 
+• Secure Password Hashing: Used Argon2id with an extra layer of salt, making it computationally infeasible to reverse the hash due to its memory-intensive design. <br> 
 • User-Friendly Interface: Designed an intuitive, fast UI with Python's Tkinter, ensuring a smooth and easy login experience. <br>
 • Non-Relational Database: Built a custom database with JSON files and hash tables, optimizing storage and access speed. <br>
 
