@@ -9,7 +9,6 @@ Our system is designed to provide a highly secure and user-friendly login experi
 
 ## Key Features 💡:
 • Secure Password Hashing: Used Argon2id with salt, making it computationally infeasible to reverse the hash due to its memory-intensive design. <br> 
-• Multi-Factor & Biometric Authentication: Added multi-factor and biometric logins for enhanced security, protecting against unauthorized access. <br>
 • User-Friendly Interface: Designed an intuitive, fast UI with Python's Tkinter, ensuring a smooth and easy login experience. <br>
 • Non-Relational Database: Built a custom database with JSON files and hash tables, optimizing storage and access speed. <br>
 
